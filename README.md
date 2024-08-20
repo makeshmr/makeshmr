@@ -11,12 +11,11 @@ I am a undergrad from NIT Calicut, driven by a curiosity for technology and a lo
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [!Qoura](https://www.quora.com/profile/Makesh-Ramachandran-2)
+- [Qoura](https://www.quora.com/profile/Makesh-Ramachandran-2)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[!Credly](https://www.credly.com/users/makesh-m-r)
+[![My Skills](https://skillicons.dev/icons?i=Python,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
